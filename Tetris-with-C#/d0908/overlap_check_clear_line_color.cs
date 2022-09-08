@@ -179,13 +179,12 @@ namespace ConsoleApp2
                         {
                             line_check(i);
                         }
-                        if (block_num >= 1)
+                        make_background();
+                        print_background_value();
+                        block_num++;
+                        if (block_num >= 2)
                         {
                             block_num = 0;
-                        }
-                        else
-                        {
-                            block_num++;
                         }
                         //line_check(19);
                         //line_check(20);
@@ -359,8 +358,7 @@ namespace ConsoleApp2
                 }
             }
 
-            make_background();
-            print_background_value();
+
             
         }
 
