@@ -1,0 +1,10 @@
+D:\Emd-Class\C#테트리스\tetris\tetris\bin\Debug\tetris.exe.config
+D:\Emd-Class\C#테트리스\tetris\tetris\bin\Debug\tetris.exe
+D:\Emd-Class\C#테트리스\tetris\tetris\bin\Debug\tetris.pdb
+D:\Emd-Class\C#테트리스\tetris\tetris\obj\Debug\tetris.csproj.AssemblyReference.cache
+D:\Emd-Class\C#테트리스\tetris\tetris\obj\Debug\tetris.Form1.resources
+D:\Emd-Class\C#테트리스\tetris\tetris\obj\Debug\tetris.Properties.Resources.resources
+D:\Emd-Class\C#테트리스\tetris\tetris\obj\Debug\tetris.csproj.GenerateResource.cache
+D:\Emd-Class\C#테트리스\tetris\tetris\obj\Debug\tetris.csproj.CoreCompileInputs.cache
+D:\Emd-Class\C#테트리스\tetris\tetris\obj\Debug\tetris.exe
+D:\Emd-Class\C#테트리스\tetris\tetris\obj\Debug\tetris.pdb
