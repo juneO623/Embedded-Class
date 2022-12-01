@@ -1,0 +1,10 @@
+D:\Emd-Class\프실 C# UDP\udp_winform\udp_winform\bin\Debug\udp_winform.exe.config
+D:\Emd-Class\프실 C# UDP\udp_winform\udp_winform\bin\Debug\udp_winform.exe
+D:\Emd-Class\프실 C# UDP\udp_winform\udp_winform\bin\Debug\udp_winform.pdb
+D:\Emd-Class\프실 C# UDP\udp_winform\udp_winform\obj\Debug\udp_winform.csproj.AssemblyReference.cache
+D:\Emd-Class\프실 C# UDP\udp_winform\udp_winform\obj\Debug\udp_winform.Form1.resources
+D:\Emd-Class\프실 C# UDP\udp_winform\udp_winform\obj\Debug\udp_winform.Properties.Resources.resources
+D:\Emd-Class\프실 C# UDP\udp_winform\udp_winform\obj\Debug\udp_winform.csproj.GenerateResource.cache
+D:\Emd-Class\프실 C# UDP\udp_winform\udp_winform\obj\Debug\udp_winform.csproj.CoreCompileInputs.cache
+D:\Emd-Class\프실 C# UDP\udp_winform\udp_winform\obj\Debug\udp_winform.exe
+D:\Emd-Class\프실 C# UDP\udp_winform\udp_winform\obj\Debug\udp_winform.pdb
